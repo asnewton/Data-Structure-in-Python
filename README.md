@@ -6,6 +6,9 @@ This is my data structure implementation in Python that I wrote as I learned the
 ### Stack
 ### Queue
 ### Linked List
+###### Singly Linked List
+###### Doubly Linked List
+###### Circular Linked List
 ### Binary Tree
 ### Binary 
 ### Binary Search Tree
